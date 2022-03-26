@@ -1,13 +1,217 @@
-#div1, #div2 {
-    float: left;
-    width: 300px;
-    height: 300px;
-    margin: 10px;
-    padding: 10px;
-    border: 1px solid black;
-  }
-
 img {
     width: auto;
-    height: 300px;
+    height: 70px;
+}
+
+#divFahrer2 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 10px;
+  left: 90%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer1 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 10px;
+  left: 82.8%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer4 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 90px;
+  left: 90%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer3 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 90px;
+  left: 82.8%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer6 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 170px;
+  left: 90%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer5 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 170px;
+  left: 82.8%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer8 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 250px;
+  left: 90%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer7 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 250px;
+  left: 82.8%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer10 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 330px;
+  left: 90%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer9 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 330px;
+  left: 82.8%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer12 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 410px;
+  left: 90%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer11 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 410px;
+  left: 82.8%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer14 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 490px;
+  left: 90%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer13 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 490px;
+  left: 82.8%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer16 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 570px;
+  left: 90%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer15 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 570px;
+  left: 82.8%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer18 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 650px;
+  left: 90%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer17 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 650px;
+  left: 82.8%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer20 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 730px;
+  left: 90%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divFahrer19 {
+  float: right;
+  width: 70px;
+  height: 70px;
+  top: 730px;
+  left: 82.8%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divPlatz1 {
+  width: 70px;
+  height: 70px;
+  top: 10%;
+  left: 40%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divPlatz2 {
+  width: 70px;
+  height: 70px;
+  top: 13%;
+  left: 50%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divPlatz3 {
+  width: 70px;
+  height: 70px;
+  top: 25%;
+  left: 40%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divPlatz4 {
+  width: 70px;
+  height: 70px;
+  top: 28%;
+  left: 50%;
+  position: absolute;
+  border: 1px solid black;
 }
