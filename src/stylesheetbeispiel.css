@@ -215,3 +215,51 @@ img {
   position: absolute;
   border: 1px solid black;
 }
+#divPlatz5 {
+  width: 70px;
+  height: 70px;
+  top: 40%;
+  left: 40%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divPlatz6 {
+  width: 70px;
+  height: 70px;
+  top: 43%;
+  left: 50%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divPlatz7 {
+  width: 70px;
+  height: 70px;
+  top: 55%;
+  left: 40%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divPlatz8 {
+  width: 70px;
+  height: 70px;
+  top: 58%;
+  left: 50%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divPlatz9 {
+  width: 70px;
+  height: 70px;
+  top: 70%;
+  left: 40%;
+  position: absolute;
+  border: 1px solid black;
+}
+#divPlatz10 {
+  width: 70px;
+  height: 70px;
+  top: 73%;
+  left: 50%;
+  position: absolute;
+  border: 1px solid black;
+}
